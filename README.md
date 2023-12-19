@@ -34,4 +34,8 @@ TODO: Navigate to the FruitObject file and make an fruit array to holds a strawb
 
 # Step 3
 
+Go to the ContentView file and reference the FruitObject array to visually show the fruit list
+
 # Step 4
+
+Go to the FruitDetailView and reference the fruit model
