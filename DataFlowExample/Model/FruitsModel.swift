@@ -17,15 +17,8 @@ import SwiftUI
  BONUS: try to make a property for the fruit color
  */
 
-struct FruitsModel: Identifiable {
+struct FruitsModel {
     
-    var id:UUID = UUID()
-    var name:String
-    var image:String
-    var description:String
-    var color:Color
-    
-    
-    static let example =   FruitsModel(name: "strawberry", image: "strawberry", description: "vvf", color: .pink)
+
     
 }

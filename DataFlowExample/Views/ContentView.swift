@@ -18,39 +18,18 @@ import SwiftUI
  */
 
 struct ContentView: View {
-    
+
     /*
-     make a variable that references the FruitObject
-     make a ForEach loop inside the View that shows the lists of fruits.
-     make a navigationLink that goes to the FruitDetailsView
+     use the FruitObject class into the FruitDetailsView
+     
+     Refer to the Hi-Fi to code out the view
+     
      */
-  var fruit:FruitObject = FruitObject()
+
     
     var body: some View {
         
-        NavigationStack {
-            
- 
-            ForEach(fruit.fruitArray) { fruit in
-                NavigationLink {
-                    FruitDetailsView(fruit: fruit)
-                } label: {
-                    Rectangle()
-                        .foregroundStyle(fruit.color)
-                        .cornerRadius(15)
-                        .overlay {
-                            Text(fruit.name)
-                                .bold()
-                                .foregroundStyle(.black)
-                            
-                        }
-                        .padding()
-                    
-                }
-            }
-            .navigationTitle("Fruits")
-            
-        }
+  Text("Content View")
        
     }
 }

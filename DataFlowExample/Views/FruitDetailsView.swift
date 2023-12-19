@@ -7,33 +7,24 @@
 
 import SwiftUI
 
+
 struct FruitDetailsView: View {
     
-    var fruit: FruitsModel
+    
+    /*
+     use the fruit Model into the FruitDetailsView
+     
+     Refer to the Hi-Fi to code out the view
+     
+     */
     
     var body: some View {
         
-        ZStack {
-            
-            Color(fruit.color)
-                .ignoresSafeArea()
-            
-            VStack {
-                Text(fruit.name)
-                    .bold()
-                    .font(.largeTitle)
-                
-                Image(fruit.image)
-                    .resizable()
-                    .aspectRatio(contentMode: .fit)
-                
-                Text(fruit.description)
-                
-            }
-        }
+        Text("FruitDetailsView")
+        
     }
 }
 
 #Preview {
-    FruitDetailsView(fruit: .example )
+    FruitDetailsView()
 }
