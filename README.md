@@ -2,7 +2,7 @@
 
 # Data Flow
 
-You have a client that wants an app that displays different fruits and shows a detail view of each fruit. The fruit images are already provided inside the xCode file
+As an user I want an app that displays different fruits and shows a detail view of each fruit. The fruit images are already provided inside the xCode file
 
 # Bronze
 Follow the instructions to make the Hi-Fi given below
