@@ -5,8 +5,11 @@
 You have a client that wants an app that displays different fruits and shows a detail view of each fruit. The fruit images are already provided inside the xCode file
 
 # Bronze
+Follow the instructions to make the Hi-Fi given below
 # SILVER
+In addition to the Hi-Fi, include functionality to allow the user to delete and add additional strawberrys, bannanas, etc
 # GOLD
+In addition to the Hi-Fi, include functionality that will allow the user to favorite a fruit card which can be seen in a favorites sheet view.
 
  <img width="200 height= 200" alt="Screenshot 2023-11-29 at 11 49 46 AM" src="https://github.com/ngordon68/DataFlowActivity/assets/102773701/7a841977-d4a0-4083-a21d-08f9d0e26e75">
 
