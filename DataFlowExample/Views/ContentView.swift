@@ -21,8 +21,11 @@ struct ContentView: View {
     
     /*
      make a variable that references the FruitObject
+     
      make a ForEach loop inside the View that shows the lists of fruits.
+     
      make a navigationLink that goes to the FruitDetailsView
+     
      */
   var fruit:FruitObject = FruitObject()
     
