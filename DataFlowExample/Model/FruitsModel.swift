@@ -4,21 +4,13 @@
 //
 //  Created by Nick Gordon on 12/14/23.
 //
-/*
- take out idenfitifiable and var id
- */
+
 import Foundation
 import SwiftUI
 
-
-/*
- TODO: make a Fruit model that has a name, image, and descriptions
- 
- BONUS: try to make a property for the fruit color
- */
-
 struct FruitsModel {
-    
+#warning(" TODO: make a Fruit model that has a name, image, and descriptions")
+#warning(" BONUS: try to make a property for the fruit color")
 
     
 }

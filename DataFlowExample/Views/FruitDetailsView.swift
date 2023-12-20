@@ -10,14 +10,8 @@ import SwiftUI
 
 struct FruitDetailsView: View {
     
-    
-    /*
-     use the fruit Model into the FruitDetailsView
-     
-     Refer to the Hi-Fi to code out the view
-     
-     */
-    
+    #warning("use the fruit Model into the FruitDetailsView. Refer to the Hi-Fi to code out the view")
+ 
     var body: some View {
         
         Text("FruitDetailsView")

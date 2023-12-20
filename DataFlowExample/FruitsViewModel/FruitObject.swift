@@ -6,16 +6,11 @@
 //
 
 import Foundation
+#warning("import the Observation framework")
 
-
-/*
- 
- import the Observation framework
- 
- make an array of fruits that has strawberry, blueberry, banana, peach, and an orange inside the FruitObject
- */
 
 class FruitObject  {
 
+#warning("make an array of fruits that has strawberry, blueberry, banana, peach, and an orange inside the FruitObject")
     
 }
