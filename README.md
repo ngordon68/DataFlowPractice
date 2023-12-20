@@ -11,12 +11,9 @@ Data Flow - https://www.youtube.com/watch?v=jD6c9y8CFGQ
 
 Observable Macro - https://developer.apple.com/documentation/swiftui/migrating-from-the-observable-object-protocol-to-the-observable-macro#
 
-# Bronze
+# Objective
 Follow the instructions to make the Hi-Fi given below
-# SILVER
-In addition to the Hi-Fi, include functionality to allow the user to delete and add additional strawberrys, bannanas, etc
-# GOLD
-In addition to the Hi-Fi, include functionality that will allow the user to favorite a fruit card which can be seen in a favorites sheet view.
+
 
  <img width="200 height= 200" alt="Screenshot 2023-11-29 at 11 49 46 AM" src="https://github.com/ngordon68/DataFlowActivity/assets/102773701/7a841977-d4a0-4083-a21d-08f9d0e26e75">
 
@@ -46,3 +43,9 @@ Go to the ContentView file and reference the FruitObject array to visually show 
 # Step 4
 
 Go to the FruitDetailView and reference the fruit model
+
+#(optional) If done with steps, below are additional steps you can do.
+# SILVER
+In addition to the Hi-Fi, include functionality to allow the user to delete and add additional strawberrys, bannanas, etc
+# GOLD
+In addition to the Hi-Fi, include functionality that will allow the user to favorite a fruit card which can be seen in a favorites sheet view.
