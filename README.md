@@ -7,7 +7,7 @@ As an user I want an app that displays different fruits and shows a detail view 
 
 # Resources 
 
-https://www.youtube.com/watch?v=jD6c9y8CFGQ
+Data Flow - https://www.youtube.com/watch?v=jD6c9y8CFGQ
 
 # Bronze
 Follow the instructions to make the Hi-Fi given below
