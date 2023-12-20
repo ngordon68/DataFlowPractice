@@ -4,6 +4,11 @@
 
 As an user I want an app that displays different fruits and shows a detail view of each fruit. The fruit images are already provided inside the xCode file
 
+
+# Resources 
+
+https://www.youtube.com/watch?v=jD6c9y8CFGQ
+
 # Bronze
 Follow the instructions to make the Hi-Fi given below
 # SILVER
