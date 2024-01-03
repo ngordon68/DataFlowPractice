@@ -24,7 +24,7 @@ Follow the instructions to make the Hi-Fi given below
 
 # To Do:
 
-You and your team will work on these either individually (or together) to try and solve the problems to make the app 
+You can work on the steps either individually or with a team to try and solve the problems to make the app
 
 # Step 1
 
