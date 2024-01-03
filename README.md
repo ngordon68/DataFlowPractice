@@ -1,6 +1,6 @@
 # DataFlowActivity
 
-# Data Flow
+# User Story (Tasks)
 
 As an user I want an app that displays different fruits and shows a detail view of each fruit. The fruit images are already provided inside the xCode file
 
@@ -13,7 +13,6 @@ Observable Macro: https://developer.apple.com/documentation/swiftui/migrating-fr
 
 # Objective
 Follow the instructions to make the Hi-Fi given below
-
 
  <img width="200 height= 200" alt="Screenshot 2023-11-29 at 11 49 46 AM" src="https://github.com/ngordon68/DataFlowActivity/assets/102773701/7a841977-d4a0-4083-a21d-08f9d0e26e75">
 
