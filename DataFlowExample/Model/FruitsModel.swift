@@ -10,20 +10,14 @@
 import Foundation
 import SwiftUI
 
-
-/*
- TODO: make a Fruit model that has a name, image, and descriptions
- 
- BONUS: try to make a property for the fruit color
- */
-
-struct FruitsModel: Identifiable {
+struct FruitsModel: Identifiable, Hashable {
     
     var id:UUID = UUID()
     var name:String
     var image:String
     var description:String
     var color:Color
+    var isFavorite:Bool = false
     
     
     static let example =   FruitsModel(name: "strawberry", image: "strawberry", description: "vvf", color: .pink)
