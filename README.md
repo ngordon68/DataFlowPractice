@@ -31,6 +31,8 @@ You can work on the steps either individually or with a team to try and solve th
 # Step 1
 
  TODO: make a Fruit model that has a name, image, and descriptions
+ > [!Bonus]
+> * You can use more resouces to go through the activity.
  BONUS: try to make a property for the fruit color
 
 # Step 2
