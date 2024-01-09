@@ -10,7 +10,7 @@ Data Flow: https://www.youtube.com/watch?v=jD6c9y8CFGQ
 
 Observable Macro: https://developer.apple.com/documentation/swiftui/migrating-from-the-observable-object-protocol-to-the-observable-macro#
 
-> [!NOTE]
+> [!TIP]
 > * You can use more resouces to go through the activity.
 
 # Objective
