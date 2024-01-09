@@ -45,7 +45,8 @@ Go to the ContentView file and reference the FruitObject array to visually show 
 
 Go to the FruitDetailView and reference the fruit model
 
-#(optional) If done with steps, below are additional steps you can do.
+> [!NOTE]
+> If done with steps, below are additional steps you can do.
 # SILVER
 In addition to the Hi-Fi, include functionality to allow the user to delete and add additional strawberrys, bannanas, etc
 # GOLD
