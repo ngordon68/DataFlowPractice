@@ -2,7 +2,7 @@
 
 # User Story (Tasks)
 
-* As an user I want an app that displays different fruits and shows a detail view of each fruit. The fruit images are already provided inside the xCode file
+* As a user I want an app that displays different fruits and shows a detail view of each fruit. The fruit images are already provided inside the xCode file
 
 # Guiding Resources 
 
